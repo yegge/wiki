@@ -1,1 +1,6 @@
 site_name: Yegge Wiki
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Configuration: config.md
